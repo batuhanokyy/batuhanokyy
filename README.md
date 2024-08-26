@@ -6,9 +6,6 @@
 [![Kaggle Badge](https://img.shields.io/badge/-batuhanokyay-00acee?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/batuhanokyay "Follow on Kaggle")
 [![HackerRank Badge](https://img.shields.io/badge/-@batuhanokyay8-2EC866?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/batuhanokyay8 "Follow on HackerRank")
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=batuhanokyy" alt="batuhanokyy" /> </p>
-
-
 
 ⚡ I'm currently studying at Bursa Technical University
 
@@ -26,6 +23,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batuhanokyy&layout=compact&hide=html" alt="batuhanokyy" /></p>
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=batuhanokyy.batuhanokyy.visitor_count)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=batuhanokyy" alt="batuhanokyy" /> </p>
 [![HitCount](http://hits.dwyl.com/batuhanokyy/batuhanokyy.svg)](http://hits.dwyl.com/batuhanokyy/batuhanokyy)
 ![Repo Views](https://views.whatilearened.today/views/github/batuhanokyy/batuhanokyy.svg?cache=remove)
