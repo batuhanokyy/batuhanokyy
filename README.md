@@ -26,4 +26,3 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=batuhanokyy" alt="batuhanokyy" /> </p>
 
 [![HitCount](http://hits.dwyl.com/batuhanokyy/batuhanokyy.svg)](http://hits.dwyl.com/batuhanokyy/batuhanokyy)
-![Repo Views](https://views.whatilearened.today/views/github/batuhanokyy/batuhanokyy.svg?cache=remove)
