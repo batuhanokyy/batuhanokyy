@@ -26,6 +26,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batuhanokyy&layout=compact&hide=html" alt="batuhanokyy" /></p>
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=batuhanokyy.visitor_count)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=batuhanokyy.batuhanokyy.visitor_count)
 [![HitCount](http://hits.dwyl.com/batuhanokyy/batuhanokyy.svg)](http://hits.dwyl.com/batuhanokyy/batuhanokyy)
 ![Repo Views](https://views.whatilearened.today/views/github/batuhanokyy/batuhanokyy.svg?cache=remove)
